@@ -1,5 +1,5 @@
 # Arcadian Developer Mantra 📜
-This document is not exhaustive and is not intended to be followed to the letter, these are a series of "rules" that we like to use when reminding ourselves to keep solutions simple and too the point, with that being said let's get started. 🚀
+This document is not exhaustive and is not intended to be followed to the letter, these are a series of "rules" that we like to use when reminding ourselves to keep solutions simple and to the point, with that being said let's get started. 🚀
 
 ### Code Goals ☄
 
